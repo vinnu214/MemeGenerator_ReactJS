@@ -1,0 +1,18 @@
+.Spinner {
+  width: 40%;
+  height: 20%;
+  background-color: rgba(78, 78, 78, 0.5);
+  margin: 25% 25%;
+  position: absolute;
+}
+.Spinner p {
+  margin: 15% 40%;
+  color: white;
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

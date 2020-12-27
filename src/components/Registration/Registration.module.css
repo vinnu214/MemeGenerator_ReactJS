@@ -1,0 +1,57 @@
+.formDivBg {
+  background: url(../../images/airlines-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.formBg {
+  background-color: #7b7b7b61;
+  padding: 10px;
+  width: 25vw;
+  float: right;
+  margin: 50px;
+  border-radius: 25px;
+}
+.formBg h3 {
+  color: #053c6d;
+  text-decoration: underline;
+}
+.row {
+  clear: both;
+  display: block;
+  margin-bottom: 4vh;
+}
+.row label {
+  color: #053c6d;
+  font-weight: bold;
+  padding-right: 25px;
+  float: left;
+}
+.inp {
+  float: right;
+  border: 2px white solid;
+  background: transparent;
+  border-radius: 10px;
+  height: 15px;
+  margin-bottom: 25px;
+  padding: 5px;
+  outline: none;
+}
+.fontCls {
+  color: #cd6000;
+  font-weight: bold;
+}
+.cbinp {
+  margin-left: 170px;
+}
+.formBtn {
+  width: 100%;
+  color: #fff;
+  background-color: #cd6000;
+  font-weight: bold;
+  border: none;
+  padding: 10px 0;
+  border-radius: 10px;
+  font-size: 24px;
+}

@@ -1,0 +1,15 @@
+.formData {
+  background-color: #75757548;
+  height: 250px;
+  width: auto;
+  max-width: 35vw;
+}
+
+.label {
+  width: 40%;
+  margin-right: 10px;
+}
+.value {
+  width: auto;
+  text-align: left;
+}

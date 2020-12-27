@@ -1,0 +1,22 @@
+.meme img {
+  height: 75vh;
+  width: 75vw;
+}
+.topText {
+  position: absolute;
+  top: 15vh;
+  left: 5vw;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+  width: 75vw;
+}
+.bottomText {
+  position: absolute;
+  bottom: 10vh;
+  left: 5vw;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+  width: 75vw;
+}
